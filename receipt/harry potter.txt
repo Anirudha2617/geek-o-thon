@@ -1,0 +1,33 @@
+Receipt Ref :		BILL7171		07/10/2023
+***************************************************************
+Items		     Cost Of Items(Rs)
+***************************************************************
+Pizza			480
+
+mojito			100
+
+milkshake			120
+
+Fruit Punch			180
+
+Vanilla			50
+
+Butterscotch			80
+
+AlmondChoco			180
+
+***************************************************************
+Cost of Food			480Rs
+
+Cost Of Drinks			400Rs
+
+Cost Of Icecreams			310Rs
+
+Sub Total 			1190Rs
+
+ServiceTax			50Rs
+
+Total Cost			1240Rs
+
+***************************************************************
+
